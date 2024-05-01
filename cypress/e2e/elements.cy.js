@@ -1,5 +1,3 @@
-{/* <reference types = "cypress"/> */}
-
 describe('elements test', () => {
   beforeEach(() => {
     cy.visit('https://demoqa.com/');
